@@ -1,2 +1,2 @@
 # Covid
-Covid tracker API HTML, css, Java
+Covid tracker API HTML
